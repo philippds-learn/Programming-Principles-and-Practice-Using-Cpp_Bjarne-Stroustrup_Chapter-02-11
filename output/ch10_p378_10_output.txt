@@ -1,0 +1,4 @@
+Welcome to my calculator.
+Just hit enter or ; at the end of your function to calculate.
+Enter help or Help for help or quit to exit the program.
+> = 11

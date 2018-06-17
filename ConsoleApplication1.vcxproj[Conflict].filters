@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\ch02">
+      <UniqueIdentifier>{f543f83a-43a2-486f-8eeb-8b31352a8f35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ch03">
+      <UniqueIdentifier>{64bce672-bff9-4194-b1a8-2bf721a659ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ch04">
+      <UniqueIdentifier>{41654723-b0ab-4171-a31d-f434ef664a17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ch05">
+      <UniqueIdentifier>{16c01077-1c0a-40ab-8f39-79e4affe7ead}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ch06">
+      <UniqueIdentifier>{39c473c5-d754-4ea9-b718-019e935e0901}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ch07">
+      <UniqueIdentifier>{bb71d030-a582-4e55-b602-29ccc7d961d1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="p55_tt_HelloWorld.cpp">
+      <Filter>Source Files\ch02</Filter>
+    </ClCompile>
+    <ClCompile Include="p65_tt_name and age.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p68_tt_exercise operators.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p73_tt_repeated word detection program.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p75_tt_Goodbye cruel world.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p81_tt_unsafe conversion.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p85_2_kilometerCalc.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p86_4_outputOperations.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p86_5_doubleOperations.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p86_6_threeint.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p86_7_threeStrings.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p86_7_threeStrings_GH.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p86_8_oddOrEven.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p86_9_numberSpellOut.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p86_9_numberSpellOut_GH.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p86_10_twoOperands.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p86_11_pennies.cpp">
+      <Filter>Source Files\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="p105_tt_currencyConversion.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p109_tt_currencyConversionSwitch.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p111_tt_aToZintegers.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p113_tt_aToZUpperCaseInteger.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p116_tt_firstProgram.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p125_tt_bleepOut.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p126_1_whileLoop.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p126_2_smallerValis.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p126_3_smallerLargerEqual.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p126_4_smallerLargerEqualDouble.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p126_5_almostEqual.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p126_6_oneEachWhileLoop.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p126_7_addCurrency.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p126_8_addUnitsReject.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p126_9_keepTrack.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p126_10_.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p126_11_keepTrack12.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p128_2_median.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p128_2_median_GH.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p128_3_distanceCities.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p128_4_numberGuess.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p128_5_calculator.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p128_6_numberToWord.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p129_7_calculatorRevisited.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p129_8_chessGrains.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p129_9_chessGrainsDoubleInt.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p129_10_rockPaperScissors.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p129_11_primeNumbers.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p130_12_primeMax.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p130_13_primeSieveOfEratosthenes.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p130_14_primeSieveMax.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p130_15_primeSieveNum.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p130_16_modeNum.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p130_17_minMaxMode.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p130_18_quadraticEquations.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p130_19_nameAge.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p130_20_.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p130_21_.cpp">
+      <Filter>Source Files\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="p138_tt_compileErrorResponse01.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p139_tt_compileErrorResponse02.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p146_tt_areaDebuggingExample.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p153_tt_uncaughtException.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p155_tt_tempHighLowAve.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p156_tt_temHoghLowAve1000.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p166_tt_preAndpostConditions.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p167_1_errorTraining.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p169_2_celsiusToKelvin.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p170_3_celsiusToKelvinRevisited.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p170_4_errorHandlingInCtoK.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p170_5_cTokAndvisavis.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p170_6_kelvinCelsiusFahrenheit.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p170_7_quadraticEquation.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p170_8_threeIntegers.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p171_10_threeDoubles.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p171_11_fibonacci.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p171_12_bullsCows.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p171_13_bullsCowsRnd.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p171_14_weekDays.cpp">
+      <Filter>Source Files\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="p204_tt_calculator00.cpp">
+      <Filter>Source Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="p208_tt_calculator010.cpp">
+      <Filter>Source Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="p216_tt_calculator011.cpp">
+      <Filter>Source Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="p217_drill_calculator02buggy.cpp">
+      <Filter>Source Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="p218_2_addingCurlyBrakets.cpp">
+      <Filter>Source Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="p218_3_suffixExclamationMark.cpp">
+      <Filter>Source Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="p218_4_usingClasses.cpp">
+      <Filter>Source Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="p219_6_sentenceCheck.cpp">
+      <Filter>Source Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="p219_8_bullsAndCowsLetters.cpp">
+      <Filter>Source Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="p219_7_grammarBitwise_X.cpp">
+      <Filter>Source Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="p219_7_revised.cpp">
+      <Filter>Source Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="p219_9_composeDigits.cpp">
+      <Filter>Source Files\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="p219_10_permutationCombinations.cpp">
+      <Filter>Source Files\ch06</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="std_lib_facilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
